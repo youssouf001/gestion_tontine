@@ -1,0 +1,8 @@
+# Ignorer les répertoires générés par Composer et npm
+node_modules/
+vendor/
+public/
+storage/
+
+# Ignorer le fichier .env
+.env
